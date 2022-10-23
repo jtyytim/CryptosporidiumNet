@@ -1,0 +1,1 @@
+# Granularity-guided-deep-learning-for-precise-Cryptosporidium-parasite-image-analysis
