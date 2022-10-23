@@ -1,0 +1,5 @@
+Python == 3.9.7
+Tensorflow == 2.5.0 
+Segmentation models --> https://github.com/yingkaisha/keras-unet-collection
+numpy == 1.19.5
+opencv-python == 4.5.4.60
