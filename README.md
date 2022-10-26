@@ -23,7 +23,7 @@ Fig 2. Example of parasite image annotated by biologist using 4 different colors
 
 ## Usage
  Steps:
- - Install required libraries (read Requirements.txt file for more details)
+ - Install required libraries (read Requirements.txt file for more details).
  - Download the project (repository) and unzip it, then you can find all the jupyter notebooks in file "Codes" for different tasks (segmentation and classification) and some test data in file "Data".
  - Find the Drive link in file "Download models" and download all the models.
  - Before running the code, please make sure that the data and model are in the right place as indicated in each jupyter notebook.
