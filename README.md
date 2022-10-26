@@ -29,7 +29,7 @@ Fig 2. Example of parasite image annotated by biologist using 4 different colors
  - Before running the code, please make sure that the data and model are in the right place as indicated in each jupyter notebook.
  
  ## Report
- [A report for the experimental performance](https://github.com/jtyytim/CryptosporidiumNet/blob/main/Experimental%20performance.pdf)
+ [Experimental performance](https://github.com/jtyytim/CryptosporidiumNet/blob/main/Experimental%20performance.pdf)
 
 ## How to cite
 [1] Yang, Z., Benhabiles, H., Windal, F., Follet, J., Leniere, A. C., & Collard, D. (2022). A Coarse-to-Fine Segmentation Methodology Based on Deep Networks for Automated Analysis of Parasite from Fluorescence Microscopic Images. In International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (pp. 156-166). Springer, Cham.  
