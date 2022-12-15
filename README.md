@@ -9,7 +9,7 @@
 <div align=center> 
  <img src="https://github.com/jtyytim/CryptosporidiumNet/blob/main/Overview.png" width="900px">
  
-Fig 1. An overview of our proposed framework for Cryptosporidium parasite image analysis. 
+Fig 1. An overview of our proposed framework for Cryptosporidium parasite image analysis (first published in [1]). 
 </div>
 
 ## Data
