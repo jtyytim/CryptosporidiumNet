@@ -27,9 +27,7 @@ Fig 2. Example of parasite image annotated by biologist using 4 different colors
  - Download the project (repository) and unzip it, then you can find all the jupyter notebooks in file "Codes" for different tasks (segmentation and classification) and some test data in file "Data".
  - Find the Drive link in file "Download models" and download all the models.
  - Before running the code, please make sure that the data and model are in the right place as indicated in each jupyter notebook.
- 
- ## Report
- You can find more details of experimental performance in the [report](https://github.com/jtyytim/CryptosporidiumNet/blob/main/Experimental%20performance.pdf).
+
 
 ## How to cite
 [1] Yang, Z., Benhabiles, H., Windal, F., Follet, J., Leniere, A. C., & Collard, D. (2022). A Coarse-to-Fine Segmentation Methodology Based on Deep Networks for Automated Analysis of Parasite from Fluorescence Microscopic Images. In International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (pp. 156-166). Springer, Cham.  
